@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <p>A curated list of awesome UI/UX iOS libraries mainly with/for swiftUI!</p>
+    <p>A curated list of awesome UI/UX iOS libraries mainly with/for SwiftUI!</p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/one1color/awesome-swiftUI-libraries)
 
