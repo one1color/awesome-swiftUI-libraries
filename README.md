@@ -1,13 +1,10 @@
 # Awesome SwiftUI Libraries 
-
-
 <div align="center">
     <p>A curated list of awesome UI/UX iOS libraries mainly with/for SwiftUI!</p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/one1color/awesome-swiftUI-libraries)
 
 </div>
-
 <br>
 
 ## **Curator** 
@@ -25,8 +22,13 @@
 </div>
 
 ## **Contents**
+- [Architecture](#Architecture)
 - [Animation](#Animation)
 
+
+### Architecture
+[scroll to top](#readme)
+- [The Composable Architecture(TCA)](https://github.com/pointfreeco/swift-composable-architecture) | MIT License: TCA is a predictable state management library that helps structure SwiftUI applications into small, independent and testable units. It promotes a unidirectional data flow and composable business logic that scales from small to complex apps.
 
 ### Animation
 [scroll to top](#readme)
