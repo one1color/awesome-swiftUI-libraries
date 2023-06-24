@@ -22,8 +22,14 @@
 </div>
 
 ## **Contents**
+- [Alert](#Alert)
 - [Architecture](#Architecture)
 - [Animation](#Animation)
+
+
+### Alert/Popups
+[scroll to top](#readme)
+- [PopupView](https://github.com/exyte/PopupView) | MIT License: Easily create toasts and popups written with SwiftUI.
 
 ### Animation
 [scroll to top](#readme)
@@ -35,7 +41,8 @@
 
 ### Audio
 [scroll to top](#readme)
-- [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) | MIT License: SwiftSpeech is a speech recognition framework designed for swiftUI. It allows you to implement speech recognition functionality in just several lines of code.
+- [SwiftSpeech](https://github.com/Cay-Zhang/SwiftSpeech) | MIT License: SwiftSpeech is a speech recognition framework designed for SwiftUI. It allows you to implement speech recognition functionality in just several lines of code.
+
 
 
 
