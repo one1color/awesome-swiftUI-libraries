@@ -23,8 +23,9 @@
 
 ## **Contents**
 - [Alert](#Alert)
-- [Architecture](#Architecture)
 - [Animation](#Animation)
+- [Architecture](#Architecture)
+
 
 
 ### Alert/Popups
@@ -33,6 +34,7 @@
 
 ### Animation
 [scroll to top](#readme)
+- [open-swiftui-animations](https://github.com/amosgyamfi/open-swiftui-animations) | License None: Very inspirational animation library is made with SwiftUI. Many useful item here.
 
 ### Architecture
 [scroll to top](#readme)
